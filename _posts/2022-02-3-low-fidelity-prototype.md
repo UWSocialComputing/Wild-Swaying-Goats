@@ -8,15 +8,15 @@ A part of the prototype that is wizardry for now is the google document, which a
 
 ## Screenshots and photos of the prototype:
 
-![prototype](/data/pictures/prototype.jpg)
+![prototype](/Wild-Swaying-Goats/data/pictures/prototype.jpg)
 
-![figma-home](/data/pictures/figma-home.jpg)
+![figma-home](/Wild-Swaying-Goats/data/pictures/figma-home.jpg)
 
-![figma-search](/data/pictures/figma-search.jpg)
+![figma-search](/Wild-Swaying-Goats/data/pictures/figma-search.jpg)
 
-![figma-bib](/data/pictures/figma-bib.jpg)
+![figma-bib](/Wild-Swaying-Goats/data/pictures/figma-bib.jpg)
 
-![figma-web](/data/pictures/figma-web.jpg)
+![figma-web](/Wild-Swaying-Goats/data/pictures/figma-web.jpg)
 
 ## Findings from the wizard of oz testing
 
