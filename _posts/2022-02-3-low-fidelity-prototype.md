@@ -6,17 +6,17 @@ Our low-fidelity prototype is composed of two parts. For the first part we use a
 
 A part of the prototype that is wizardry for now is the google document, which allows users to modify a joint bibliography and will be implemented as part of the eventual website. Additionally, the figma prototype only allows users to search for one thing right now, but that will eventually be implemented to allow users to search different debate bibliographies on the website from past debates people have had.
 
-## screenshots, drawings, or photos (or other) of the prototype:
+## Screenshots and photos of the prototype:
 
-![prototype](../data/pictures/prototype.png)
+![prototype](../data/pictures/prototype.jpg)
 
-![figma-home](../data/pictures/figma-home.png)
+![figma-home](../data/pictures/figma-home.jpg)
 
-![figma-search](../data/pictures/figma-search.png)
+![figma-search](../data/pictures/figma-search.jpg)
 
-![figma-bib](../data/pictures/figma-bib.png)
+![figma-bib](../data/pictures/figma-bib.jpg)
 
-![figma-web](../data/pictures/figma-web.png)
+![figma-web](../data/pictures/figma-web.jpg)
 
 ## Findings from the wizard of oz testing
 
