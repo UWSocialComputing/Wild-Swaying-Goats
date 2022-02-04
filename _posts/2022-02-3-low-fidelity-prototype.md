@@ -8,15 +8,15 @@ A part of the prototype that is wizardry for now is the google document, which a
 
 ## Screenshots and photos of the prototype:
 
-![prototype](../data/pictures/prototype.jpg)
+![prototype](/data/pictures/prototype.jpg)
 
-![figma-home](../data/pictures/figma-home.jpg)
+![figma-home](/data/pictures/figma-home.jpg)
 
-![figma-search](../data/pictures/figma-search.jpg)
+![figma-search](/data/pictures/figma-search.jpg)
 
-![figma-bib](../data/pictures/figma-bib.jpg)
+![figma-bib](/data/pictures/figma-bib.jpg)
 
-![figma-web](../data/pictures/figma-web.jpg)
+![figma-web](/data/pictures/figma-web.jpg)
 
 ## Findings from the wizard of oz testing
 
