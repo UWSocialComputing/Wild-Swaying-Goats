@@ -2,13 +2,21 @@
 
 ## Description of your low-fidelity prototype
 
-Our low-fidelity prototype is composed of two parts. For the first part we use a Wizard of Oz approach by dividing up our users into two groups and promoting a discussion between them. During this part we encourage the users to try to debate utilizing facts and provide them with a google document to manage their sources. Then moving forward we provide users with our website. Through the figma the users then go about exploring the website and completing different tasks.
+Our low-fidelity prototype is composed of two parts. For the first part we use a Wizard of Oz approach by dividing up our users into two groups and promoting a discussion between them. During this part we encourage the users to try to debate utilizing facts and provide them with a google document to manage their sources. Then moving forward we provide users with our website. Through the [figma](https://www.figma.com/file/zQvDHVKp4XX01hnl61oKJG/SC-Capstone-Paper-Prototype-Idea?node-id=0%3A1) the users then go about exploring the website and completing different tasks.
 
 A part of the prototype that is wizardry for now is the google document, which allows users to modify a joint bibliography and will be implemented as part of the eventual website. Additionally, the figma prototype only allows users to search for one thing right now, but that will eventually be implemented to allow users to search different debate bibliographies on the website from past debates people have had.
 
 ## screenshots, drawings, or photos (or other) of the prototype:
 
-[prototype] (prototype.png)
+![prototype](../data/pictures/prototype.png)
+
+![figma-home](../data/pictures/figma-home.png)
+
+![figma-search](../data/pictures/figma-search.png)
+
+![figma-bib](../data/pictures/figma-bib.png)
+
+![figma-web](../data/pictures/figma-web.png)
 
 ## Findings from the wizard of oz testing
 
