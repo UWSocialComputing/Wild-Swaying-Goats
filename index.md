@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+UW Winter 2022 Software Computing Capstone
 
-Maybe say a some things about yourself.
+The Wild Swaying Goats
 
-Or maybe what you plan to blog about.
+We sway all day
+
+Here to fight and reduce misinformations
