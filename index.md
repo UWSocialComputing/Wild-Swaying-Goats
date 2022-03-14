@@ -2,6 +2,6 @@ UW Winter 2022 Software Computing Capstone
 
 The Wild Swaying Goats
 
-We Sway all Day every Day
+We sway all day every day
 
 Here to fight and reduce misinformations
