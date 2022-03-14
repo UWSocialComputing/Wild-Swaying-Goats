@@ -6,6 +6,7 @@ hr {
 /* Post navigation links */
 .post_navi {
   display: flex;
+  color: #1976D2 !important;
   background-color: #1976D2 !important;
 }
 
@@ -19,26 +20,31 @@ hr {
   width: 50%;
   position: relative;
   background-color: #1976D2 !important;
+  color: #1976D2 !important;
 }
 
 .post_navi .nav_prev {
   text-align: left;
   background-color: #1976D2 !important;
+
 }
 
 .post_navi .nav_next {
   text-align: right;
   background-color: #1976D2 !important;
+  color: #1976D2 !important;
 }
 
 .post_navi .nav_prev .post_navi-arrow {
   left: 0;
   background-color: #1976D2 !important;
+
 }
 
 .post_navi .nav_next .post_navi-arrow {
   right: 0;
   background-color: #1976D2 !important;
+  color: #1976D2 !important;
 }
 
 .post_navi .post_navi-arrow {
@@ -48,4 +54,5 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
   background-color: #1976D2 !important;
+  color: #1976D2 !important;
 }
