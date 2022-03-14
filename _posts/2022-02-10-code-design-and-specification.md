@@ -55,7 +55,15 @@
 
 #### Storyboard 1: You go to the website to start a debate
 
+![storyboard1](/Wild-Swaying-Goats/data/pictures/storyboard-1.jpg)
+
 #### Storyboard 2: You go to the website to glean information about a debate
+
+![storyboard2](/Wild-Swaying-Goats/data/pictures/storyboard-2.jpg)
+
+## Architectural Design: UML Diagram
+
+![diagram](/Wild-Swaying-Goats/data/pictures/uml-diagram.jpg)
 
 ## Summary:
 
