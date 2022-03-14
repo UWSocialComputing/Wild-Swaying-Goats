@@ -23,9 +23,11 @@ Built for the University of Washington Winter 2022 Social Computing Capstone.
 
 ## Our Team
 
+## From Left to Right
 ### Reinard Fegamas
 
 ### Max Haak
+Hi, I'm a Junior in the CS department graduating in December 2022. I enjoy designing and implementing projects from the ground up and G.O.A.T. was a great experience to learn from!
 
 ### Jyoti Lama
 
