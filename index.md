@@ -4,7 +4,7 @@
 
 ![GOAT logo](/Wild-Swaying-Goats/data/pictures/logo/logo.jpg)
 
-## Description
+## Product Description
 We surveyed college students and found that most never trust what they read online, unless it comes from a friend or a reputable news source. **What would convince them to trust a stranger?**
 
 A **Great Online Anti-misinformation Table**, or a **GOAT**, allows people to quickly present their sources for all to see, **improving trust in online anonymous discussions**.
@@ -15,7 +15,11 @@ So next time you feel like a discussion may become littered with misinformation,
 
 Built for the University of Washington Winter 2022 Social Computing Capstone.
 
-## Team
+## Video Demo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eUbmqYk03BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Our Team
 
 ### Reinard Fegamas
 
