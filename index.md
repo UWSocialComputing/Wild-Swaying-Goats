@@ -1,8 +1,8 @@
 # GOAT: Greatest Online Anti-misinformation Tables
 
-**Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
+### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
-![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg)
+![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg =250x250)
 
 ## Product Description
 We surveyed college students and found that most never trust what they read online, unless it comes from a friend or a reputable news source. **What would convince them to trust a stranger?**
