@@ -26,13 +26,17 @@ Built for the University of Washington Winter 2022 Social Computing Capstone.
 
 ## Our Team
 
-![Final Presentaion](/Wild-Swaying-Goats/data/pictures/groupPic.jpg)
+![Final Presentation](/Wild-Swaying-Goats/data/pictures/groupPic.jpg)
 
 ## From Left to Right
+
 ### Reinard Fegamas
 
+Heyo, I'm a Senior in the CS department graduating March 2022 (this is my last quarter!). I had experience doing web applications, but it was my first time tackling the important issue of misinformation. I learned a lot of design aspects/decisions from the capstone and got to see a lot of cool ideas come to reality with GOAT!
+
 ### Max Haak
-Hi, I'm a Junior in the CS department graduating in December 2022. I enjoy designing and implementing projects from the ground up and G.O.A.T. was a great experience to learn from!
+
+Hi, I'm a Junior in the CS department graduating in December 2022. I enjoy designing and implementing projects from the ground up and GOAT was a great experience to learn from!
 
 ### Jyoti Lama
 
