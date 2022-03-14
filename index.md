@@ -1,11 +1,12 @@
 <p align="center">
     <img src="/Wild-Swaying-Goats/data/logo/logo.jpg" alt="GOAT logo" width="200"/>
 </p>
+
 # GOAT: Greatest Online Anti-misinformation Tables
 
 ### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
-<!-- ![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg) -->
+https://github.com/UWSocialComputing/Wild-Swaying-Goats-Project
 
 ## Product Description
 
