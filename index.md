@@ -2,7 +2,8 @@
 
 ### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
-![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg =250x250)
+<img src="/Wild-Swaying-Goats/data/logo/logo.jpg" alt="GOAT logo" width="200"/>
+<!-- ![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg) -->
 
 ## Product Description
 We surveyed college students and found that most never trust what they read online, unless it comes from a friend or a reputable news source. **What would convince them to trust a stranger?**
