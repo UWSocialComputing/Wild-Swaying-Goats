@@ -1,8 +1,10 @@
+<p align="center">
+    <img src="/Wild-Swaying-Goats/data/logo/logo.jpg" alt="GOAT logo" width="200"/>
+</p>
 # GOAT: Greatest Online Anti-misinformation Tables
 
 ### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
-<img src="/Wild-Swaying-Goats/data/logo/logo.jpg" alt="GOAT logo" width="200"/>
 <!-- ![GOAT logo](/Wild-Swaying-Goats/data/logo/logo.jpg) -->
 
 ## Product Description
@@ -22,6 +24,8 @@ Built for the University of Washington Winter 2022 Social Computing Capstone.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eUbmqYk03BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Our Team
+
+![Final Presentaion](/Wild-Swaying-Goats/data/pictures/groupPic.jpg)
 
 ## From Left to Right
 ### Reinard Fegamas
