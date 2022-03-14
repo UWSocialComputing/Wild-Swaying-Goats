@@ -4,7 +4,7 @@
 
 ### Functional Requirements
 
-# Primary
+#### Primary
 
 - Users can search for existing discussion bibliographies
 - Users can create their own discussion bibliographies
@@ -15,7 +15,7 @@
 - Sources will be clickable to redirect users to the source website
 - Bibliographies have a discussion title, two “sides” with titles, and a list of numbered sources per side
 
-# Secondary
+#### Secondary
 
 - Users can copy sources from other bibliographies
 - Users can load multiple sources at once
@@ -25,14 +25,14 @@
 
 ### Technical Requirements
 
-# Primary
+#### Primary
 
 - Starting a new bibliography will send a request to the backend with bibliography title and the title of each side. A link to the bibliography will be generated and the bibliography will be displayed at that link.
 - Adding a new source to a bibliography will send a request to the backend with source info and the source will be displayed on the bibliography.
 - Voting on a source will send a request to the backend and the votes will be updated on the bibliography along with a way for users to know they have already voted on a source and can’t vote again.
 - Searching for words will query the list of discussions on the backend for matching discussion titles and links.
 
-# Secondary
+#### Secondary
 
 - Clicking the copy button next to a source will create a pop up allowing users to specify the bibliography to copy to
 - There will be another + button under the currently inputted source information to create fields for another source and clicking the final create sources button will send all of those sources to the backend to be displayed
@@ -41,21 +41,21 @@
 
 ### Usability Requirements
 
-# Primary
+#### Primary
 
 - Bibliographies are intuitive to read
 - Links to sources are easy to find and click
 - Searching is accurate
 
-# Secondary
+#### Secondary
 
 - Site is accessible for users using screen readers
 
 ## Storyboard Flows
 
-# Storyboard 1: You go to the website to start a debate
+#### Storyboard 1: You go to the website to start a debate
 
-# Storyboard 2: You go to the website to glean information about a debate
+#### Storyboard 2: You go to the website to glean information about a debate
 
 ## Summary:
 
