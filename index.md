@@ -1,4 +1,4 @@
-# GOAT: Greatest Online Anti-misinformation Tablesasasasasa
+# GOAT: Greatest Online Anti-misinformation Tables
 
 ### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
