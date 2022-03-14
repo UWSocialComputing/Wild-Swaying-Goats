@@ -48,3 +48,5 @@ with my team learning and developing GOAT together.
 
 ### Grant Williams
 I'm a Senior studying Computer Engineering and graduating in June 2022. I liked seeing how our team turned the word "goat" from a randomly generated team name into the brand for our prototype.
+
+---
