@@ -23,6 +23,8 @@ Built for the University of Washington Winter 2022 Social Computing Capstone.
 
 ## Our Team
 
+![Final Presentaion](/Wild-Swaying-Goats/data/pictures/groupPic.png))
+
 ### Reinard Fegamas
 
 ### Max Haak
