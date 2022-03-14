@@ -6,7 +6,7 @@
 
 ### **Is your online discussion overgrown with misinformation? Have a GOAT clear it up.**
 
-https://github.com/UWSocialComputing/Wild-Swaying-Goats-Project
+[See it on GitHub!](https://github.com/UWSocialComputing/Wild-Swaying-Goats-Project)
 
 ## Product Description
 
