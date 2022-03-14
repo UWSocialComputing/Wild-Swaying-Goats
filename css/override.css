@@ -6,6 +6,7 @@ hr {
 /* Post navigation links */
 .post_navi {
   display: flex;
+  color: blue;
 }
 
 .post_navi-label {
