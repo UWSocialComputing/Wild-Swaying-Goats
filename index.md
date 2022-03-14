@@ -37,3 +37,4 @@ Hi, I'm a Junior in the CS department graduating in December 2022. I enjoy desig
 ### Jyoti Lama
 
 ### Grant Williams
+I'm a Senior studying Computer Engineering and graduating in June 2022. I liked seeing how our team turned the word "goat" from a randomly generated team name into the brand for our prototype.
