@@ -6,7 +6,6 @@ hr {
 /* Post navigation links */
 .post_navi {
   display: flex;
-  background-color: #1976D2;
 }
 
 .post_navi-label {
@@ -18,7 +17,7 @@ hr {
   padding: 0 2.2em;
   width: 50%;
   position: relative;
-  color: inherit !important;
+  color: #1976D2 !important;
 }
 
 .post_navi .nav_prev {
